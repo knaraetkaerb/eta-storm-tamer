@@ -1,0 +1,40 @@
+{
+  "name": "eta-storm-tamer",
+  "version": "1.0.0",
+  "description": "Tames storms in the eta atmosphere, providing weather control and climate intervention in virtual environments.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knaraetkaerb/eta-storm-tamer"
+  },
+  "author": "knaraetkaerb",
+  "license": "MIT",
+  "dependencies": {
+    "blocksage": "1.0.0",
+    "zolotaya-chasha-zolotaya": "1.0.0",
+    "theta-grain-harvester": "1.0.0",
+    "iota-hive-master": "1.0.0",
+    "pg": "1.0.0",
+    "ethereumjs-util": "1.0.0",
+    "mongoose": "1.0.0",
+    "debug": "1.0.0",
+    "validator": "1.0.0",
+    "fs-extra": "1.0.0",
+    "webpack-cli": "1.0.0",
+    "axios": "1.0.0",
+    "webpack": "1.0.0",
+    "web3-utils": "1.0.0",
+    "eth-crypto": "1.0.0",
+    "moment": "1.0.0",
+    "web3-react": "1.0.0",
+    "node-sass": "1.0.0",
+    "firebase": "1.0.0",
+    "jest": "1.0.0",
+    "solc": "1.0.0",
+    "cheerio": "1.0.0",
+    "sinon": "1.0.0"
+  }
+}
